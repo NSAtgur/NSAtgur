@@ -46,6 +46,7 @@ class NSAtgur:
 ### ⚙️ Backend & APIs
 ![REST API](https://img.shields.io/badge/REST_API-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ### 🗄️ Databases & Caching
